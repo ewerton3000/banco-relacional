@@ -1,0 +1,1 @@
+DELETE FROM repteis WHERE id = 9

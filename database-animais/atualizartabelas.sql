@@ -1,0 +1,1 @@
+UPDATE repteis set tipo = "Terrestre mas sabe nadar" WHERE tipo ='Terrestre mas sabe n' 
